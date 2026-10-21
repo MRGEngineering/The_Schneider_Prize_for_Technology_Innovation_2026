@@ -150,7 +150,7 @@ The_Schneider_Prize_for_Technology_Innnovation_2026/
 ### Label to Spreadsheet Guide
 
 <p align="center">
-  <img src="images/label-to-spreadsheet-guide.png" alt="Guide mapping each label field to its CSV column" width="720">
+  <img src="resorces/images/label-to-spreadsheet-guide.png" alt="Guide mapping each label field to its CSV column" width="720">
 </p>
 
 ### Program Flow Chart
@@ -158,5 +158,5 @@ The_Schneider_Prize_for_Technology_Innnovation_2026/
 Provided is a rough example of what the project may entail. This is not a required list of steps and there is no competitive advantage to following it.
 
 <p align="center">
-  <img src="images/program-flow-chart.png" alt="Flow chart: generate empty .csv with file name, take in image/video of label, image processing, character recognition software, populate .csv with information" width="800">
+  <img src="resources/images/program-flow-chart.png" alt="Flow chart: generate empty .csv with file name, take in image/video of label, image processing, character recognition software, populate .csv with information" width="800">
 </p>
