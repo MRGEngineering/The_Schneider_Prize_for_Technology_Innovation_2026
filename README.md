@@ -52,6 +52,14 @@ A successful project should achieve three main goals:
   <li>A holistic program that includes creating and populating a <code>.csv</code> file.</li>
 </ol>
 
+### Submission
+NOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHED
+All projects submissions must include the following:
+<ol>
+  <li>A GitHub Repo</li>
+  <li></li>
+  <li></li>
+</ol>
 ## Input
 
 There are two main sample types, referred to for simplicity as **"Large"** and **"Small"**. The labels may be in varying conditions.
@@ -103,9 +111,6 @@ A `.csv` file named via user input. The file should contain **only 7 columns**; 
 </table>
 
 *See the [Resources](#resources) section for more info.*
-## Submission Requirements
-
-
 
 ## Judging Criteria
 
