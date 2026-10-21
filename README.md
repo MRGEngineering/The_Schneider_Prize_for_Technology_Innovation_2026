@@ -103,6 +103,9 @@ A `.csv` file named via user input. The file should contain **only 7 columns**; 
 </table>
 
 *See the [Resources](#resources) section for more info.*
+## Submission Requirements
+
+
 
 ## Judging Criteria
 
@@ -110,7 +113,7 @@ Each team's solution will be judged on **design**, **execution**, and **creativi
 
 ## More Information
 
-Questions can be answered in a brainstorming session given by JD Brown Center for Entrepreneurship Center member MRG Labs during the Hackathon. Insight will be provided by Rich Wurzbach (President) and Dylan Kletzing (Lab Manager). You can also join our discord channel 
+Questions can be answered in a brainstorming session given by JD Brown Center for Entrepreneurship Center member MRG Labs during the Hackathon. Insight will be provided by Rich Wurzbach (President), Dylan Kletzing (Lab Manager), and Sean Neuman (R&D Engineer). You can also join our [Discord Channel](https://discord.gg/xjrqVgjpT) to stay up to date on the state of the challenge.
 
 **Good luck to all the Hackathon participants!**
 
