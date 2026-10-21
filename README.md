@@ -39,7 +39,7 @@ Prizes are split amongst all members of the group.
 ## Write-up
 
 <p>
-MRG Labs designs instrument solutions for deployment in analytical laboratories and for end-users as mini-lab solutions, allowing the evaluation of greases sampled from machinery to determine grease condition, contamination levels, and equipment health. As a part of this process, MRG Labs receives hundreds of oil and grease samples a week, and each sample will have its label's information read and logged by hand. The goal of this project is to quicken and automate the lab's cataloguing process and achieve a two-fold effect of freeing up time for our technicians and shortening the turn-around time for our customers.
+MRG Labs designs instrument solutions for deployment in analytical laboratories and for end-users as mini-lab solutions, allowing the evaluation of greases sampled from machinery to determine grease condition, contamination levels, and equipment health. As a part of this process, MRG Labs receives hundreds of oil and grease samples a week, and each sample will have its label's information read and logged by hand. While the industry pushes towards a more technological solution for cataloging sample information through the use of barcodes and central databases, many situations still require the use of pen and paper labels. The goal of this project is to quicken and automate the lab's cataloguing process and achieve a two-fold effect of freeing up time for our technicians and shortening the turn-around time for our customers.
 </p>
 
 ## Requirements
