@@ -118,24 +118,16 @@ Questions can be answered in a brainstorming session given by JD Brown Center fo
 
 ## Resources
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Resources Folder</h3>
-      <a href="https://mrgcorp-my.sharepoint.com/:f:/p/sneuman/IgBpZfL1WdvCS5OMTPnawyszAcVfJRdfriwOPIC2CENa68g?e=PtLyiv">Hackathon 2026</a>
-      <ul>
-        <li><a href="https://mrgcorp-my.sharepoint.com/:f:/p/sneuman/IgB0_oZG3NG8TaV9kUvmt1w3AV1W7oN6G73ZB7D_UYh077Q?e=mAJJ8d">Example_Photos</a></li>
-        <li><a href="https://mrgcorp-my.sharepoint.com/:x:/p/sneuman/IQDjKc6abAROTL5bu2s72EC2ARWUh2oHo7GCYOhJb6K-wG0?e=iEmfEf">output_empty.csv</a></li>
-        <li><a href="https://mrgcorp-my.sharepoint.com/:x:/p/sneuman/IQD9gHil2hzlTIXcZoxYWV15AcykqwmlWd7Wq2dcvRGiEjM?e=VgLyNv">output_example.csv</a> (based on the example photos)</li>
-        <li>Schneider Prize Write Up</li>
-      </ul>
-    </td>
-    <td align="center">
-      <img src="images/resources-qr.png" alt="QR code linking to the Resources Folder" width="180"><br>
-      <sub>Scan for the Resources Folder</sub>
-    </td>
-  </tr>
-</table>
+```text
+The_Schneider_Prize_for_Technology_Innnovation_2026/
+├── Sample_Images/     # Some pre-unfolded labels to get teams started
+├── resources/
+│   ├── images/        # Images for the README.md --should not need to access
+├── README.md
+├── output_empty.csv   # Output template
+├── output_example.csv # Output example populated with /Sample_Images/ examples.
+```
+
 
 ### Large Sample
 
