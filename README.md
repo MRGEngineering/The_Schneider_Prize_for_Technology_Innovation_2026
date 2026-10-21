@@ -150,7 +150,7 @@ The_Schneider_Prize_for_Technology_Innnovation_2026/
 ### Label to Spreadsheet Guide
 
 <p align="center">
-  <img src="resorces/images/label-to-spreadsheet-guide.png" alt="Guide mapping each label field to its CSV column" width="720">
+  <img src="resources/images/label-to-spreadsheet-guide.png" alt="Guide mapping each label field to its CSV column" width="720">
 </p>
 
 ### Program Flow Chart
