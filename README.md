@@ -133,8 +133,8 @@ The_Schneider_Prize_for_Technology_Innnovation_2026/
 
 <table>
   <tr>
-    <td align="center"><img src="images/large-sample-tube.jpg" alt="Large sample tube" width="380"><br><sub><b>Figure 1:</b> Large Sample Tube</sub></td>
-    <td align="center"><img src="images/large-sample-label.jpg" alt="Large sample label" width="380"><br><sub><b>Figure 3:</b> Large Sample Label</sub></td>
+    <td align="center"><img src="resources/images/Large_Sample.jpeg" alt="Large sample tube" width="380"><br><sub><b>Figure 1:</b> Large Sample Tube</sub></td>
+    <td align="center"><img src="resources/images/Large_Label.jpeg" alt="Large sample label" width="380"><br><sub><b>Figure 3:</b> Large Sample Label</sub></td>
   </tr>
 </table>
 
@@ -142,8 +142,8 @@ The_Schneider_Prize_for_Technology_Innnovation_2026/
 
 <table>
   <tr>
-    <td align="center"><img src="images/small-sample-tube.jpg" alt="Small sample tube" width="380"><br><sub><b>Figure 2:</b> Small Sample Tube</sub></td>
-    <td align="center"><img src="images/small-sample-label.jpg" alt="Small sample label" width="380"><br><sub><b>Figure 4:</b> Small Sample Label</sub></td>
+    <td align="center"><img src="resources/images/Small_Sample.jpeg" alt="Small sample tube" width="380"><br><sub><b>Figure 2:</b> Small Sample Tube</sub></td>
+    <td align="center"><img src="resources/images/Small_Label.jpeg" alt="Small sample label" width="380"><br><sub><b>Figure 4:</b> Small Sample Label</sub></td>
   </tr>
 </table>
 
