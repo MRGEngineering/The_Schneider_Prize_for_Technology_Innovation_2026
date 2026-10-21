@@ -58,8 +58,8 @@ There are two main sample types, referred to for simplicity as **"Large"** and *
 
 <table>
   <tr>
-    <td align="center"><img src="images/Large_Sample.jpeg" alt="Large sample tube" width="380"><br><sub><b>Figure 1:</b> Large Sample Tube</sub></td>
-    <td align="center"><img src="images/Small_Sample.jpeg" alt="Small sample tube" width="380"><br><sub><b>Figure 2:</b> Small Sample Tube</sub></td>
+    <td align="center"><img src="resources/images/Large_Sample.jpeg" alt="Large sample tube" width="380"><br><sub><b>Figure 1:</b> Large Sample Tube</sub></td>
+    <td align="center"><img src="resources/images/Small_Sample.jpeg" alt="Small sample tube" width="380"><br><sub><b>Figure 2:</b> Small Sample Tube</sub></td>
   </tr>
 </table>
 
