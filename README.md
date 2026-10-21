@@ -4,7 +4,7 @@
 
 ### Presented by MRG Laboratories
 
-<img src="images/schneider-brothers.jpg" alt="The Schneider brothers in uniform" width="420">
+<img src="resources/images/schneider-brothers.jpg" alt="The Schneider brothers in uniform" width="420">
 
 <sub>(L–R) Frank Schneider, US Army; Dr. Tony Schneider, US Army Air Corps; Dr. Henry Schneider, US Marines; Edward A. Schneider, Jr., US Navy</sub>
 
