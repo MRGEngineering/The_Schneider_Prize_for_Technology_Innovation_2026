@@ -47,19 +47,18 @@ MRG Labs designs instrument solutions for deployment in analytical laboratories 
 A successful project should achieve three main goals:
 
 <ol>
-  <li>A way to scan the labels on the samples.</li>
-  <li>Software that reads the contents of the labels.</li>
-  <li>A single holistic program that includes the first two steps as well as creating and populating a <code>.csv</code> file.</li>
-</ol>
-
-### Submission
-NOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHED
-All projects submissions must include the following:
-<ol>
-  <li>A GitHub Repo</li>
-  <li>A Video Demonstration of the program running</li>
-  <li></li>
-</ol>
+        <li>An easy and repeatable way to scan the labels on the samples. Ultimately, the laboratory will be utilizing a gantry robot to scan the sample labels, a simple method for sample introduction is needed.</li>  
+        <li>Software that reads the contents of the scanned labels, including hand-written and typed information.
+            <ul>
+                <li> The program must also generate an image of the scanned information for every sample to allow for human review of the data.</li>
+                <li> The program/app should also provide a <span class="highlight">“confidence level”</span> for each reading, which can be used as a way to alert personnel that manual review is needed.</li>
+            </ul>
+        </li> 
+        <li>A program that converts the readable information and populates results for multiple samples into an excel-readable <code>.csv</code> format. The desired <code>.csv</code> template will be provided.
+        <li>The program should be runnable on a typical workstation computer or <span class="highlight">Raspberry Pi</span>, and be usable by a non-technical sample entry clerk (i.e. does not require the ability to “read code” to use the program).</li>
+        <li>The program should be able to work at scale, handling batches of hundreds of samples at once.</li>
+        <li>Ideally, the program should have some built-in customizability. Should the need for future changes to the label format arise, it will be important to maintain this functionality.</li>
+    </ol>
 
 ## Input
 
@@ -112,11 +111,24 @@ A `.csv` file named via user input. The file should contain **only 7 columns**; 
 </table>
 
 *See the [Resources](#resources) section for more info.*
-
+## Stretch Goals
+  <div>Stretch Goals are optional tasks that teams can complete that can raise their project’s prestige in the judge’s eyes. An incomplete project will not be judged on its stretch goals.
+    </div>
+    <ol>
+        <li>Include a robust <span class="highlight">UI (User Interface)</span> that allows for all the project's inputs to be added.</li>
+        <li>The ability for a user to input any string where the confidence level of a character detection falls below a certain level.
+            <ul>
+                <li> Have the image of the below-confidence string displayed on screen for the user to input.</li>
+                <li> Able to provide human input for all under-confidence strings of a batch after the runtime of a batch of samples.</li>
+            </ul>
+        </li>
+    </ol>
+    
 ## Judging Criteria
 
-Each team's solution will be judged on **design**, **execution**, and **creativity**. The team that makes the best solution will receive a **$1,000 Grand Prize**. If a second worthy submittal is received, a **Reserve Prize of $500** will also be awarded.
+Each team's solution will be judged on **design**, **execution**, and **creativity** by members of the Schneider family and MRG Labs. The team that makes the best solution will receive a **$1,000 Grand Prize**. If a second worthy submittal is received, a **Reserve Prize of $500** will also be awarded.
 
+The winning team(s) will be asked to present their project to the MRG Labs team in the weeks following the hackathon.
 ## More Information
 
 Questions can be answered in a brainstorming session given by JD Brown Center for Entrepreneurship Center member MRG Labs during the Hackathon. Insight will be provided by Rich Wurzbach (President), Dylan Kletzing (Lab Manager), and Sean Neuman (R&D Engineer). You can also join our [Discord Channel](https://discord.gg/xjrqVgjpT) to stay up to date on the state of the challenge.
