@@ -49,7 +49,7 @@ A successful project should achieve three main goals:
 <ol>
   <li>A way to scan the labels on the samples.</li>
   <li>Software that reads the contents of the labels.</li>
-  <li>A holistic program that includes creating and populating a <code>.csv</code> file.</li>
+  <li>A single holistic program that includes the first two steps as well as creating and populating a <code>.csv</code> file.</li>
 </ol>
 
 ### Submission
