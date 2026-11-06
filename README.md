@@ -57,9 +57,10 @@ NOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHEDNOTFINISHED
 All projects submissions must include the following:
 <ol>
   <li>A GitHub Repo</li>
-  <li></li>
+  <li>A Video Demonstration of the program running</li>
   <li></li>
 </ol>
+
 ## Input
 
 There are two main sample types, referred to for simplicity as **"Large"** and **"Small"**. The labels may be in varying conditions.
