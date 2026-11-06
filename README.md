@@ -23,7 +23,7 @@ The Schneider Prize for Technology Innovation was founded in 2017 to honor the a
 ## The 2026 Challenge
 
 <blockquote>
-  <strong>Create an efficient way for the laboratory to take information from hand-written or typed-and-printed sample labels and convert that to a digital format which can be uploaded to our database.</strong>
+  <b>Create an efficient way for the laboratory to take information from hand-written or typed-and-printed sample labels and convert that to a digital format which can be uploaded to our database.</b>
 </blockquote>
 
 ### Prizes
